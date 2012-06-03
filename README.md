@@ -4,6 +4,11 @@ BrowserQuest
 BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
 
 
+Ideas for improvement
+---------------------
+* Incorporate larger zones.  Ideally a seamless, no-screen-transitions system
+
+
 Documentation
 -------------
 
